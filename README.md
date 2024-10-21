@@ -53,6 +53,10 @@
 <a href="https://github.com/Sadullayev-Javohir/table3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=table3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 		  	 
     </div>
  </details>
+
+ <br/><br/>
+
+<hr/>
 <h2 align="center">⚒️ The languages ​​I learned ⚒️</h2>
 <br/>
 <div align="center">
