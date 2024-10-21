@@ -33,7 +33,15 @@
 
  <a href="https://github.com/Sadullayev-Javohir/assignmentTable"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=assignmentTable&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
  
-<a href="https://github.com/Sadullayev-Javohir/bool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=bool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 	 
+<a href="https://github.com/Sadullayev-Javohir/bool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=bool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 
+
+<a href="https://github.com/Sadullayev-Javohir/butun_sonlar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=butun_sonlar&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 	 
+
+<a href="https://github.com/Sadullayev-Javohir/Python_6exercise"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=Python_6exercise&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 	 
+
+<a href="https://github.com/Sadullayev-Javohir/table3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=table3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 	
+
+<a href="https://github.com/Sadullayev-Javohir/o-zgaruvchilar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=o-zgaruvchilar&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 	  	 
     </div>
  </details>
 <h2 align="center">⚒️ The languages ​​I learned ⚒️</h2>
