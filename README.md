@@ -24,8 +24,8 @@
 </div>
 
  <hr/>
-<p align="left">
- <a href="https://github.com/Sadullayev-Javohir/chiziqli_masalalar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=chiziqli_masalalar&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+<p align="center">
+ <a href="https://github.com/Sadullayev-Javohir/chiziqli_masalalar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=chiziqli_masalalar&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chiziqli_masalalar"></a>
 
  <a href="https://github.com/Sadullayev-Javohir/BookSpace"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=BookSpace&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
