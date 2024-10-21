@@ -39,7 +39,9 @@
     </div>
  </details>
 
+<br/><br/>
 
+<hr/>
  
  <details open> 
   <summary><h2>📘 My exercises from Web Development</h2></summary>
