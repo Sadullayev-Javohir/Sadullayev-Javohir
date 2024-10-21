@@ -25,14 +25,16 @@
 
  <hr/>
  <details open> 
-  <summary><h2>📘 My exercises from python</h2></summary>
-     <p align="left">
+  <summary><h2>📘 My exercises from Python</h2></summary>
+     <div align="left">
          <a href="https://github.com/Sadullayev-Javohir/chiziqli_masalalar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=chiziqli_masalalar&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chiziqli_masalalar"></a>
 
  <a href="https://github.com/Sadullayev-Javohir/BookSpace"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=BookSpace&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
  <a href="https://github.com/Sadullayev-Javohir/assignmentTable"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=assignmentTable&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    </p>
+ 
+<a href="https://github.com/Sadullayev-Javohir/bool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=bool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 	 
+    </div>
  </details>
 <h2 align="center">⚒️ The languages ​​I learned ⚒️</h2>
 <br/>
