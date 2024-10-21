@@ -24,6 +24,8 @@
 </div>
 
  <hr/>
+
+ <a href="https://github.com/Sadullayev-Javohir/chiziqli_masalalar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir1&repo=chiziqli_masalalar&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
  
 <h2 align="center">⚒️ The languages ​​I learned ⚒️</h2>
 <br/>
