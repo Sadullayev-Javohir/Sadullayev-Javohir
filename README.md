@@ -108,4 +108,5 @@
 
 <hr/>
 <a width = 390 height = 200 href="https://wakatime.com"><img src="https://wakatime.com/share/@ea99f606-f394-4982-9cc4-d033945b2a0a/001728b0-165d-460d-8447-9e25635e59bb.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea99f606-f394-4982-9cc4-d033945b2a0a/af7edd62-61cf-4198-8838-3634041b2d74.png" /></a>
 <hr/>
