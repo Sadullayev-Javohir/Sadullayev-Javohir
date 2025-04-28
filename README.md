@@ -37,7 +37,7 @@
 
 
  <hr/>
- <details open> 
+ <details close> 
   <summary><h2>📘 My exercises from Javascript</h2></summary>
      <div align="left">
         <!-- 1 -->
@@ -49,7 +49,7 @@
 
 
  <hr/>
- <details open> 
+ <details close> 
   <summary><h2>📘 My exercises from Python</h2></summary>
      <div align="left">
         <!-- 1 -->
@@ -61,7 +61,7 @@
 
 <hr/>
  
- <details open> 
+ <details close> 
   <summary><h2>📘 My exercises from Web Development</h2></summary>
      <div align="left">
          <!--1-->
@@ -107,4 +107,5 @@
 <br/><br/>
 
 <hr/>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea99f606-f394-4982-9cc4-d033945b2a0a/001728b0-165d-460d-8447-9e25635e59bb.png" /></a>
+<a width = 390 height = 200 href="https://wakatime.com"><img src="https://wakatime.com/share/@ea99f606-f394-4982-9cc4-d033945b2a0a/001728b0-165d-460d-8447-9e25635e59bb.png" /></a>
+<hr/>
