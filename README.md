@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **JavaScript**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **C#**
 
-💬 Ask me about **Frontend**
+💬 Ask me about **Backend**
  </div>
  
 <div align="center"> 
