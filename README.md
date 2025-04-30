@@ -76,8 +76,7 @@
 <h2 align="center">⚒️ The languages ​​I learned ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,py,kali,linkedin,linux,html,css,vscode,js,github,figma,tailwind,git,cs" /><br>
 </div>
 
 <hr></hr>
