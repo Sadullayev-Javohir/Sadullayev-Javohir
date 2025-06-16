@@ -112,11 +112,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    <img width=390 height = 200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sadullayev-Javohir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
   <img width=390 height = 200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sadullayev-Javohir&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 height = 200 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sadullayev-Javohir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-    <img width=390 height = 200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sadullayev-Javohir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-    ## 📊 GitHub Statistikam
+    
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sadullayev-Javohir&show_icons=true&theme=radical" alt="Sadullayev Javohir GitHub Stats" />
 
