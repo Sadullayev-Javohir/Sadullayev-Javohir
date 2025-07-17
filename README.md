@@ -24,7 +24,7 @@
 </div>
 <hr/>
  <details open> 
-  <summary><h2>📘 My exercises from C</h2></summary>
+  <summary><h2>📘 My plan 90 days from C</h2></summary>
      <div align="left">
         <!-- 1 -->
          <a href="https://github.com/Sadullayev-Javohir/Cprogramminglanguage"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=Cprogramminglanguage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="svetafor"></a> 	 
@@ -35,13 +35,23 @@
 
 
  <hr/>
-
 <hr/>
  <details open> 
-  <summary><h2>📘 My exercises from C#  (Csharp)</h2></summary>
+  <summary><h2>📘 My plan 90 days from .NET and ASP.NET </h2></summary>
      <div align="left">
         <!-- 1 -->
          <a href="https://github.com/Sadullayev-Javohir/CsharpLearning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=CsharpLearning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="svetafor"></a> 	 
+    </div>
+ </details>
+
+<br/><br/>
+
+<hr/>
+ <details open> 
+  <summary><h2>📘 My plan 90 days from C#  (Csharp)</h2></summary>
+     <div align="left">
+        <!-- 1 -->
+         <a href="https://github.com/Sadullayev-Javohir/dotNetAspNet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=dotNetAspNet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="svetafor"></a> 	 
     </div>
  </details>
 
