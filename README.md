@@ -34,7 +34,6 @@
 <br/><br/>
 
 
- <hr/>
 <hr/>
  <details open> 
   <summary><h2>📘 My plan 90 days from .NET and ASP.NET </h2></summary>
@@ -57,8 +56,6 @@
 
 <br/><br/>
 
-
- <hr/>
 
  <hr/>
  <details open> 
