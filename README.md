@@ -112,7 +112,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,py,kali,linkedin,linux,html,css,vscode,js,github,figma,tailwind,git,cs" /><br>
 </div>
 
-<hr></hr>
+<hr>
 
 <br/>
 <hr/>
