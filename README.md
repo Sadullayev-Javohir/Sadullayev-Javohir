@@ -23,6 +23,19 @@
   </a>
 </div>
 <hr/>
+<details open> 
+  <summary><h2>📘 My exercises from PostgreSQL</h2></summary>
+     <div align="left">
+        <!-- 1 -->
+         <a href="https://github.com/Sadullayev-Javohir/PostgreSQL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=PostgreSQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="svetafor"></a> 	 
+    </div>
+ </details>
+
+<br/><br/>
+
+
+ <hr/>
+
  <details open> 
   <summary><h2>📘 My plan 90 days from C</h2></summary>
      <div align="left">
@@ -58,19 +71,7 @@
 
 
  <hr/>
- <details open> 
-  <summary><h2>📘 My exercises from PostgreSQL</h2></summary>
-     <div align="left">
-        <!-- 1 -->
-         <a href="https://github.com/Sadullayev-Javohir/PostgreSQL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=PostgreSQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="svetafor"></a> 	 
-    </div>
- </details>
-
-<br/><br/>
-
-
- <hr/>
- <details close> 
+  <details close> 
   <summary><h2>📘 My exercises from Javascript</h2></summary>
      <div align="left">
         <!-- 1 -->
