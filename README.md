@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **JavaScript**
+ 🔭 I’m currently working on **Data Structure & Algorithm**
  
  🌱 I’m currently learning **C#**
 
@@ -22,6 +22,18 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
+
+<hr/>
+<details open> 
+  <summary><h2>📘 My exercises from Data Structure & Algorithm</h2></summary>
+     <div align="left">
+        <!-- 1 -->
+         <a href="https://github.com/Sadullayev-Javohir/DSA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=DSA&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DSA"></a> 	 
+    </div>
+ </details>
+
+<br/><br/>
+
 <hr/>
 <details open> 
   <summary><h2>📘 My exercises from PostgreSQL</h2></summary>
