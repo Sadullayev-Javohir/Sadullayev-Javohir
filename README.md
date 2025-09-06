@@ -21,6 +21,7 @@
   <a href="mailto:javohirsadullayev2024@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+    <a href="https://wakatime.com/@ea99f606-f394-4982-9cc4-d033945b2a0a"><img src="https://wakatime.com/badge/user/ea99f606-f394-4982-9cc4-d033945b2a0a.svg" alt="Total time coded since Mar 27 2025" /></a>
 </div>
 
 <hr/>
