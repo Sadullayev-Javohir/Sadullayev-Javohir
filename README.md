@@ -26,6 +26,17 @@
 
 <hr/>
 <details open> 
+  <summary><h2>📘 My journey from .NET Web API</h2></summary>
+     <div align="left">
+        <!-- 1 -->
+         <a href="https://github.com/Sadullayev-Javohir/webapi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=WEBAPI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="WEBAPI"></a> 	 
+    </div>
+ </details>
+
+<br/><br/>
+
+<hr/>
+<details open> 
   <summary><h2>📘 My exercises from Data Structure & Algorithm</h2></summary>
      <div align="left">
         <!-- 1 -->
