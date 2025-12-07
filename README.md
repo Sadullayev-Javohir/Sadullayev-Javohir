@@ -26,10 +26,10 @@
 
 <hr/>
 <details open> 
-  <summary><h2>📘 My journey from .NET Web API</h2></summary>
+  <summary><h2>📘 My journey from ASP.NET 120days</h2></summary>
      <div align="left">
         <!-- 1 -->
-         <a href="https://github.com/Sadullayev-Javohir/webapi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=WEBAPI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="WEBAPI"></a> 	 
+         <a href="https://github.com/Sadullayev-Javohir/ASPNET120"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadullayev-Javohir&repo=ASPNET120&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ASPNET"></a> 	 
     </div>
  </details>
 
