@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Sadullayev Javohir — Backend developer</title>
+  <desc id="description">A pale blue and cobalt developer profile banner. Javohir is a backend developer from Uzbekistan, focused on C#, .NET, and ASP.NET Core. A request pipeline connects API, logic, and data.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#CFDCEF" stroke-opacity=".6"/>
+    </pattern>
+    <clipPath id="corners">
+      <rect width="960" height="320" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#corners)">
+    <rect width="960" height="320" fill="#EFF5FD"/>
+    <rect x="594" width="366" height="320" fill="url(#grid)"/>
+    <path d="M594 0V320" stroke="#CFDCEF"/>
+    <path d="M594 0H960V5H594Z" fill="#235BC9"/>
+    <circle cx="44" cy="40" r="4" fill="#235BC9"/>
+    <text x="59" y="44" fill="#526783" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.4">DEVELOPER PROFILE</text>
+    <text x="44" y="120" fill="#122844" font-family="'Segoe UI',Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2.5">Sadullayev</text>
+    <text x="44" y="188" fill="#235BC9" font-family="'Segoe UI',Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2.5">Javohir.</text>
+    <text x="47" y="224" fill="#526783" font-family="'Segoe UI',Arial,sans-serif" font-size="18">Backend developer · Uzbekistan</text>
+    <rect x="44" y="253" width="53" height="30" rx="7" fill="#FFFFFF" stroke="#CFDCEF"/>
+    <rect x="105" y="253" width="68" height="30" rx="7" fill="#FFFFFF" stroke="#CFDCEF"/>
+    <rect x="181" y="253" width="143" height="30" rx="7" fill="#FFFFFF" stroke="#CFDCEF"/>
+    <g fill="#122844" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">
+      <text x="70.5" y="272">C#</text>
+      <text x="139" y="272">.NET</text>
+      <text x="252.5" y="272">ASP.NET Core</text>
+    </g>
+    <text x="630" y="44" fill="#526783" font-family="'Courier New',monospace" font-size="11" letter-spacing="1">REQUEST → RESPONSE</text>
+    <path d="M631 105V243H686M631 174H662M631 105H642" stroke="#235BC9" stroke-width="1.5"/>
+    <circle cx="631" cy="105" r="3.5" fill="#235BC9"/>
+    <circle cx="631" cy="174" r="3.5" fill="#235BC9"/>
+    <circle cx="631" cy="243" r="3.5" fill="#235BC9"/>
+    <rect x="644" y="77" width="272" height="56" rx="9" fill="#FFFFFF" stroke="#CFDCEF"/>
+    <rect x="664" y="146" width="252" height="56" rx="9" fill="#FFFFFF" stroke="#CFDCEF"/>
+    <rect x="688" y="215" width="228" height="56" rx="9" fill="#FFFFFF" stroke="#CFDCEF"/>
+    <g stroke="#235BC9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m672 97-7 8 7 8m12-16 7 8-7 8"/>
+      <path d="M685 164h17v20h-17zM690 170h7m-7 7h5"/>
+      <ellipse cx="718" cy="235" rx="9" ry="3.5"/>
+      <path d="M709 235v14c0 2 4 3.5 9 3.5s9-1.5 9-3.5v-14m-18 7c0 2 4 3.5 9 3.5s9-1.5 9-3.5"/>
+    </g>
+    <g fill="#122844" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600">
+      <text x="704" y="110">API</text>
+      <text x="719" y="179">Logic</text>
+      <text x="745" y="248">Data</text>
+    </g>
+    <g fill="#526783" font-family="'Segoe UI',Arial,sans-serif" font-size="12" text-anchor="end">
+      <text x="898" y="110">ASP.NET Core</text>
+      <text x="898" y="179">C# / .NET</text>
+      <text x="898" y="248">PostgreSQL</text>
+    </g>
+    <rect x=".5" y=".5" width="959" height="319" rx="19.5" stroke="#CFDCEF"/>
+  </g>
+</svg>
